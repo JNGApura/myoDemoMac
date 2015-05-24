@@ -2,18 +2,18 @@
 *	myoDemo.cpp
 *
 *	A program to acquire EMG and accelerometer data
-*   in MATLAB Engine (MAC OS X) from a C++ program.
+*   	in MATLAB Engine (MAC OS X) from a C++ program.
 *
 * 	Author: Joao Apura
-*   e-mail: joao.apura@tecnico.ulisboa.pt
+*   	e-mail: joao.apura@tecnico.ulisboa.pt
 *           Instituto Superior Tecnico - ULisboa
 *           2014-2015
 *
-*   If some error is printed out regarding some libraries while
-*   calling ./demoMyo, please do this in the terminal:
-*       MLDIR = Matlab directory (/Applications/MATLAB_R2014b.app)
-*       export DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:$MLDIR/bin/maci64/:$MLDIR/extern/include
-*       export PATH=$PATH:$MLDIR/bin
+*   	If some error is printed out regarding some libraries while
+*   	calling ./demoMyo, please do this in the terminal:
+*       	MLDIR = Matlab directory (/Applications/MATLAB_R2014b.app)
+*       	export DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:$MLDIR/bin/maci64/:$MLDIR/extern/include
+*       	export PATH=$PATH:$MLDIR/bin
 *
 */
 
